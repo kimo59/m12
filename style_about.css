@@ -1,0 +1,88 @@
+body{
+  background-color: #f2f2f2;
+}
+main{
+  width: 1100px;
+  margin: 0 auto 0;
+  line-height: 2;
+  padding: 15px;
+  background-color: #ffffff;
+}
+/* ==== HEADER ==== */
+
+/* ==== MAIN ==== */
+#equipe{
+ background-color: white;
+}
+#equipe h2{
+  text-align: left;
+  font-size: 25px;
+  color: gray;
+  margin: 0;
+}
+#equipe h3{
+  text-align: left;
+  font-size: 20px;
+  color: #93ae2f;
+}
+
+#equipe .part1 img{
+  float: left;
+  width: 30%;
+  height: 20%;
+  margin-right: 15px;
+}
+#equipe .part2 img{
+  float: right;
+  width: 40%;
+  height: 30%;
+  margin-left: 15px;
+}
+#equipe p{
+  font-size: 16px;
+  color: gray;
+}
+
+#concept{
+  background-color: white;
+}
+#concept h2{
+  text-align: left;
+  font-size: 25px;
+  color: gray;
+  margin: 0;
+}
+#concept p{
+  font-size: 16px;
+  color: gray;
+}
+
+#others{
+  background-color: #e9efcf;
+  width: 100%;
+  text-align: center;
+}
+#others article{
+  width: 30%;
+  padding: 5px;
+  text-align: center;
+  display: inline-block;
+}
+#others h4{
+  font-size: 20px;
+  color: gray;
+}
+#others p{
+  font-size: 16px;
+  color: gray;
+}
+#others i{
+  background-color: #93ae2f;
+  color: white;
+  font-size: 30px;
+  border-radius: 100px;
+  padding: 10% 10%;
+  margin-top: 10px;
+}
+
+/* ==== FOOTER ==== */

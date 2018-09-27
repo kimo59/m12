@@ -1,2 +1,2 @@
 # m12
-3wa
+Exercice de groupe
